@@ -1,0 +1,24 @@
+
+@media only screen and (max-width: 800px) {
+    .Text {
+     text-align:center !important;
+     
+    }
+    .link{
+        float:none !important;
+    }
+  }
+
+.link {
+  float: left;
+  clear: both;
+  color: rgb(239, 83, 80);
+  font-weight: 500;
+  font-size: 1.05em;
+}
+
+.link:hover {
+  color: rgb(237, 42, 38);
+  transition: 1s ease-in;
+}
+

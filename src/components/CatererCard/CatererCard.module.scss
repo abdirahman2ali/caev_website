@@ -1,0 +1,57 @@
+$width: 290px;
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700|Work+Sans:100,200,300,400,500,600');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+.card{
+max-height:400px;
+max-width: $width;
+height:100%;
+width:100%;
+border-radius:5px;
+margin:1px;
+}
+.card:hover{
+    cursor:pointer;
+}
+
+.card__picture{
+    height:180px;
+    width: $width;
+    overflow:hidden;
+    border-radius:5px;
+    
+}
+
+.card__picture img{
+    height:100%;
+    width:100%;
+}
+.card__title{
+    margin-top:4px;
+
+    color:rgb(239, 83, 80);
+    font-family:'Josefin Sans', sans-serif;
+  
+   
+}
+
+.divider{
+    border:0px;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+    max-width:100%;
+    margin-left:0px;
+}
+.card__body{
+    padding:10px;
+    //font-family:'Work Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    //font-family:Arial important;
+    color: #333 !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.card__button{
+    display:flex;
+    flex-direction:row-reverse;
+
+}

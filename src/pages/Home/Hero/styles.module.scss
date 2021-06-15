@@ -1,0 +1,27 @@
+@media only screen and (max-width: 700px) {
+  .hero {
+    display: block !important;
+    margin-bottom: 0px !important;
+    height: 40vh !important;
+    min-height: 40vh !important;
+  }
+}
+
+.hero {
+  border-radius: 0px !important;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(64, 64, 64, 1) 0%,
+      rgba(64, 64, 64, 0) 10%,
+      rgba(64, 64, 64, 0) 90%,
+      rgba(64, 64, 64, 1) 100%
+    ),
+    url("../../../assets/images/Hero.jpg");
+    mix-blend-mode: soft-light !important;
+  background-size: cover;
+  height: 86vh;
+  min-height: 700px;
+  width: 100%;
+  /*    background-attachment:fixed;*/
+  background-repeat: no-repeat;
+}

@@ -1,0 +1,16 @@
+export interface IItem{
+    id:number,
+    menu_item_id:string,
+    menu_item_name:string,
+    cusine_type:any,
+    calories:number,
+    vegetarian:boolean,
+    halal:boolean,
+    gluten_free:boolean,
+    restaurant_id:string,
+    ingredients:any,
+    description:string,
+    price:number,
+    createdAt:Date,
+    updatedAt:Date,
+}

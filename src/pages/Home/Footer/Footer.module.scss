@@ -1,0 +1,26 @@
+.footerInformation {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  text-decoration: none;
+  //margin-top: 15px;
+}
+.footerInformationSection {
+  flex: 1;
+}
+
+.footerInformationSection ul {
+  list-style: none;
+}
+.footerInformationSection ul li {
+  text-align: center;
+//  margin-top: 10px;
+}
+
+.footerAbout {
+  flex: 1;
+}
+
+.footerResources {
+  flex: 1;
+}

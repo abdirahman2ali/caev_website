@@ -1,0 +1,16 @@
+.container{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+.input{
+    flex:1 100%;
+    max-width:350px;
+}
+
+.emailContainer{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}

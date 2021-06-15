@@ -1,0 +1,22 @@
+/*.container{
+    display:flex;
+    flex-direction:row;
+    width:85%;
+    float:right;
+}*/
+.container{
+margin-left:20%;
+margin-right:20%;
+
+}
+.caterer{
+    width:60%;
+    box-sizing:border-box;
+    flex:2;
+}
+
+.cart{
+    width:25%;
+    box-sizing:border-box;
+    flex:1;
+}

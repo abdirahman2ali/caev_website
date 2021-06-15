@@ -1,0 +1,23 @@
+.root{
+    background-color:rgba(36, 41, 48, 0.9);
+    max-width:50%;
+    float:left;
+    position:relative;
+    top:20%;
+    margin:10px;
+    left:20px;
+    padding:5px;
+    padding-top:20px;
+    padding-bottom:20px;
+    color:white!important;
+    border-radius:5px;
+}
+
+.root2{
+    display:flex;
+    background-color:rgba(97, 96, 96, 0.8);
+    align-items:flex-end;
+    justify-content:space-between;
+    margin-top:40px;
+
+}

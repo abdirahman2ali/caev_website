@@ -1,0 +1,14 @@
+@media only screen and (max-width: 500px) {
+  .formControl {
+    max-width: 1200px !important;
+    min-width: 1200px !important;
+  }
+}
+
+.formControl {
+  min-width: 170px !important;
+  max-width: 400px !important;
+  position: relative !important;
+  right: 14px !important;
+  margin: 15px !important;
+}

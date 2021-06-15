@@ -1,0 +1,69 @@
+@media only screen and (max-height: 850px) {
+    .HeroSearch {
+        top: 5vh!important;
+  }
+  }
+  
+  @media only screen and (max-width: 850px) {
+      .HeroSearch {
+          top: 10vh!important;
+    }
+  }
+  
+  @media only screen and (max-width: 700px) {
+      .HeroSearch {
+        display:block !important;
+      position:relative!important;
+    
+        top:0!important;
+        left:0!important;
+        right:0!important;
+        margin-top:0px!important;
+        margin-left:5px!important;
+        margin-right:5px!important;
+        margin-bottom:40px;
+        padding:0px!important;
+        border-bottom:1px solid #ccc;
+        max-width:100%!important;
+        width:100% !important;
+      }
+      .SelectField{
+          width:70%!important;
+          margin-left:auto !important;
+          margin-right:auto !important;
+          left:auto!important;
+          right:auto!important;
+          
+      }
+  
+      .rightIcon{
+        position:relative;
+        right:30px!important;
+      }
+  
+      .Title{
+        text-align:center!important;
+      }
+    }
+  
+  .HeroSearch{
+      z-index:999;
+      top:13vh;
+      float:left;
+      position:absolute;
+      padding:40px;
+      max-width: 550px;
+      box-sizing: border-box;
+      overflow-y:hidden;
+  }
+  
+  .Padding{
+      padding:40px;
+  }
+  
+  .textField{
+      width:80%;
+  }
+  
+  
+  

@@ -1,0 +1,19 @@
+@media only screen and (max-width: 960px) {
+  .Title{
+    text-align: center !important;
+  }
+}
+
+
+.Title{
+    font-weight:500 !important;
+    margin-bottom:60px !important;
+}
+.WhyJoin{
+  background-image: url("../../../assets/images/analytics.png");
+  width: 405px;
+  height: 380px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
