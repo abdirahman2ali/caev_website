@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/caev_website/static/css/main.3448bdf5.chunk.css",
+    "main.js": "/caev_website/static/js/main.0de41f00.chunk.js",
+    "main.js.map": "/caev_website/static/js/main.0de41f00.chunk.js.map",
+    "runtime-main.js": "/caev_website/static/js/runtime-main.d43f27e2.js",
+    "runtime-main.js.map": "/caev_website/static/js/runtime-main.d43f27e2.js.map",
+    "static/js/2.00add4d2.chunk.js": "/caev_website/static/js/2.00add4d2.chunk.js",
+    "static/js/2.00add4d2.chunk.js.map": "/caev_website/static/js/2.00add4d2.chunk.js.map",
+    "index.html": "/caev_website/index.html",
+    "precache-manifest.8b52cc206545787485338399428791cd.js": "/caev_website/precache-manifest.8b52cc206545787485338399428791cd.js",
+    "service-worker.js": "/caev_website/service-worker.js",
+    "static/css/main.3448bdf5.chunk.css.map": "/caev_website/static/css/main.3448bdf5.chunk.css.map",
+    "static/js/2.00add4d2.chunk.js.LICENSE.txt": "/caev_website/static/js/2.00add4d2.chunk.js.LICENSE.txt",
+    "static/media/styles.module.scss": "/caev_website/static/media/preparing.825fb5cb.png",
+    "static/media/companyA.jpg": "/caev_website/static/media/companyA.2d2f75ee.jpg",
+    "static/media/greek.png": "/caev_website/static/media/greek.1d25c4f4.png",
+    "static/media/indian.png": "/caev_website/static/media/indian.d3f9076d.png",
+    "static/media/pizza.png": "/caev_website/static/media/pizza.e65a65ea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d43f27e2.js",
+    "static/js/2.00add4d2.chunk.js",
+    "static/css/main.3448bdf5.chunk.css",
+    "static/js/main.0de41f00.chunk.js"
+  ]
+}
